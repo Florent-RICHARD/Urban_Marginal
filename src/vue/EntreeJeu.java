@@ -24,8 +24,7 @@ public class EntreeJeu extends JFrame {
 	/**
 	 * Zone de saisie de l'IP
 	 */
-	private JTextField txtIp;
-	
+	private JTextField txtIp;	
 	/**
 	 * Instance du contrôleur pour communiquer avec lui
 	 */
