@@ -13,7 +13,7 @@ import javax.swing.JTextField;
 
 /**
  * frame de l'arène du jeu
- * @author florent
+ * @author emds
  *
  */
 public class Arene extends JFrame {

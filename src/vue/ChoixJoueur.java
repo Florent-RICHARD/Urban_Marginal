@@ -13,7 +13,7 @@ import java.awt.Dimension;
 
 /**
  * Frame du choix du joueur
- * @author florent
+ * @author emds
  *
  */
 public class ChoixJoueur extends JFrame {
