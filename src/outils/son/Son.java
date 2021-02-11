@@ -21,11 +21,10 @@ public class Son implements Serializable {
 
     /**
      * Création d'un objet de type Sound, à partir d'un fichier de son
-     * @param nomfic url du fichier
+     * @param nomfic URL du fichier
      */
     public Son (URL nomfic) {
         try {
-//            this.sound = new Sound(new File(nomfic));
             this.sound = new Sound(nomfic);
         } catch (SonException ex) {
         }

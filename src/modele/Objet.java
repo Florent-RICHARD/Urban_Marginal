@@ -39,6 +39,20 @@ public abstract class Objet {
 	}
 
 	/**
+	 * @param posX the posX to set
+	 */
+	public void setPosX(Integer posX) {
+		this.posX = posX;
+	}
+
+	/**
+	 * @param posY the posY to set
+	 */
+	public void setPosY(Integer posY) {
+		this.posY = posY;
+	}
+
+	/**
 	 * @return the jLabel
 	 */
 	public JLabel getjLabel() {
